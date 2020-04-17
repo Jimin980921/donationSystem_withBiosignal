@@ -13,9 +13,9 @@ __제안배경__: 2019년 기준, 사랑의 온도탑에 쌓인 모금액이 지
 __프로젝트 내용:__
 
 __1. 하드웨어__:                               
-<img src="https://user-images.githubusercontent.com/47767202/79405595-da8f3e80-7fcf-11ea-8e63-79c6c278d155.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/47767202/79405595-da8f3e80-7fcf-11ea-8e63-79c6c278d155.jpeg" width="40%">
 > emotiv epoc - 뇌파 측정 센서. 14채널 지원.
 
 -------------
 
-__2. 
+__2. __:

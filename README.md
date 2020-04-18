@@ -18,4 +18,7 @@ __1. 하드웨어__:
 
 -------------
 
-__2. __:
+__2. 활용이론__:
+
+<img src="https://user-images.githubusercontent.com/47767202/79638403-fb1deb00-81bf-11ea-9b0a-4e42eecbc1d3.png" width="40%">    
+> P300: 

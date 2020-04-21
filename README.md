@@ -24,3 +24,10 @@ __2. 활용이론__:
 <img src="https://user-images.githubusercontent.com/47767202/79638403-fb1deb00-81bf-11ea-9b0a-4e42eecbc1d3.png" width="40%">  
 
 > P300: 특정한 정보를 내포하고 있는 자극을 받은 뒤 일정 시간 동안 일어나는 뇌의 전기적 활동(ERP) 중 하나로 약 300ms 후에 발생하는 뇌파
+
+-----------
+
+__3. 시스템 처리과정__:
+
+- Flow Chart
+  <img src="https://user-images.githubusercontent.com/47767202/79882335-5f91b200-842d-11ea-8776-dfbe6b663bd3.png" width="40%">

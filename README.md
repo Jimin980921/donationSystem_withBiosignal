@@ -29,5 +29,5 @@ __2. 활용이론__:
 
 __3. 시스템 처리과정__:
 
-- Flow Chart
-  <img src="https://user-images.githubusercontent.com/47767202/79882335-5f91b200-842d-11ea-8776-dfbe6b663bd3.png" width="40%">
+- Flow Chart                            
+  <img src="https://user-images.githubusercontent.com/47767202/79882335-5f91b200-842d-11ea-8776-dfbe6b663bd3.png" width="60%">

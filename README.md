@@ -13,7 +13,7 @@ __제안배경__: 2019년 기준, 사랑의 온도탑에 쌓인 모금액이 지
 
 ----------
 __프로젝트 내용:__                          
-__*참고) emotiv epoc기기없이는 사용이 불가함*__                     
+__*참고) emotiv epoc기기없이는 사용이 불가함 + Active license부분에 자신이 설정한 아이디 및 비밀번호를 맞게 입력해야함*__                     
 
 __1. 하드웨어__:                    
 <img src="https://user-images.githubusercontent.com/47767202/79405595-da8f3e80-7fcf-11ea-8e63-79c6c278d155.jpeg" width="40%">

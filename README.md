@@ -60,4 +60,7 @@ Visual Studio: 뇌파 데이터 받아오는 부분부터 윈폼까지 모두 �
 __5. 결과__: 
 
 - 뇌파 레퍼런스 측정 화면                                                    
-  <img src="https://user-images.githubusercontent.com/47767202/82135844-34d72580-9842-11ea-98d9-cbe2dcb61bfb.png" width="50%">
+<img src="https://user-images.githubusercontent.com/47767202/82135844-34d72580-9842-11ea-98d9-cbe2dcb61bfb.png" width="50%">
+
+- 관심사 선택 화면(두번째,세번째 사진은 랜덤으로 보여지는 화면의 예시를 나타낸 것임)
+<img src="https://user-images.githubusercontent.com/47767202/82135982-d448e800-9843-11ea-9901-e5958aaca4da.png" width="60%">

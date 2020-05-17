@@ -58,3 +58,6 @@ Visual Studio: 뇌파 데이터 받아오는 부분부터 윈폼까지 모두 �
 -----------
 
 __5. 결과__: 
+
+- 뇌파 레퍼런스 측정 화면
+  <img src="https://user-images.githubusercontent.com/47767202/82135730-03aa2580-9841-11ea-9171-e39b321bc4ea.png" width="50%>

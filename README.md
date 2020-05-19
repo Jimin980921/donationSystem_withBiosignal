@@ -67,3 +67,6 @@ __5. 결과__:
 
 - 뇌가 선택한 관심사 출력 화면 및 관심사에 관한 기부영상 재생 화면
   <img src="https://user-images.githubusercontent.com/47767202/82272408-7fc57a00-99b5-11ea-99c8-3f31c69df9a1.png" width="65%">
+
+- 영상시청 동안의 집중도그래프와 가장 집중도가 높았던 구간의 맞춤형 문구 출력화면
+  <img src="https://user-images.githubusercontent.com/47767202/82272879-d41d2980-99b6-11ea-9f7a-8cb2045d884d.png" width="42%">

@@ -64,3 +64,6 @@ __5. 결과__:
 
 - 관심사 선택 화면(두번째,세번째 사진은 랜덤으로 보여지는 화면의 예시를 나타낸 것임)
   <img src="https://user-images.githubusercontent.com/47767202/82135982-d448e800-9843-11ea-9901-e5958aaca4da.png" width="65%">
+
+- 뇌가 선택한 관심사 출력 화면 및 관심사에 관한 기부영상 재생 화면
+  <img src="https://user-images.githubusercontent.com/47767202/82272408-7fc57a00-99b5-11ea-99c8-3f31c69df9a1.png" width="65%">

@@ -1,0 +1,6 @@
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\build\Debug\DotNetEmotivSDK.dll
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\build\Debug\DotNetEmotivSDK.pdb
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.csprojAssemblyReference.cache
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.csproj.CoreCompileInputs.cache
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.dll
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.pdb

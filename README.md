@@ -70,3 +70,6 @@ __5. 결과__:
 
 - 영상시청 동안의 집중도그래프와 가장 집중도가 높았던 구간의 맞춤형 문구 출력화면
   <img src="https://user-images.githubusercontent.com/47767202/82272879-d41d2980-99b6-11ea-9f7a-8cb2045d884d.png" width="42%">
+  
+- 기부에 동의한 경우 결제화면과 종료화면(기부에 동의하지않았다면 바로 종료화면)  
+  <img src="https://user-images.githubusercontent.com/47767202/82745295-b89e8e00-9dbd-11ea-8bee-ad32ff3ac0f5.png" width="65%">

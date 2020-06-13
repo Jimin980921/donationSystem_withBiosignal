@@ -1,0 +1,7 @@
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\bin\win32\PerformanceMetric.exe
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\bin\win32\PerformanceMetric.pdb
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\PerformanceMetric\obj\x86\Debug\PerformanceMetric.csprojAssemblyReference.cache
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\PerformanceMetric\obj\x86\Debug\PerformanceMetric.csproj.CoreCompileInputs.cache
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\PerformanceMetric\obj\x86\Debug\PerformanceMetric.csproj.CopyComplete
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\PerformanceMetric\obj\x86\Debug\PerformanceMetric.exe
+C:\Users\sohyeon\Downloads\community-sdk-master\community-sdk-master\examples_extra_prime\C#\PerformanceMetric\obj\x86\Debug\PerformanceMetric.pdb

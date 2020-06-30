@@ -73,3 +73,6 @@ __5. 결과__:
   
 - 기부에 동의한 경우 결제화면과 종료화면(기부에 동의하지않았다면 바로 종료화면)  
   <img src="https://user-images.githubusercontent.com/47767202/82745295-b89e8e00-9dbd-11ea-8bee-ad32ff3ac0f5.png" width="65%">
+
+
+[김소현](https://github.com/sohyeon98720)
